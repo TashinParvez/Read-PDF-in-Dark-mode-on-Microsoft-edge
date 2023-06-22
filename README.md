@@ -2,7 +2,7 @@
 
 ## Process
 1. Open PDF in MS-edge
-2. Go to ` inspect -> console ` and past bellow code hit `enter`
+2. Go to ` inspect -> console ` and past bellow code and last hit `enter`
 
 
 ```bash
